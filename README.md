@@ -19,8 +19,6 @@ Esta ação de formação, promovida em parceria com a Federação das Pescas do
 Em desenvolvimento desde 2020, o projeto PESCAz é co-financiado pelo Fundo Europeu dos Assuntos Marítimos e das Pescas (FEAMP), através do Governo Regional dos Açores, no âmbito do programa operacional MAR2020 e tem como missão colaborar cientificamente para o desenvolvimento sustentável do setor, através de um processo de investigação participativa com a comunidade da pesca na Região.
 
 
-A participação nos cinco vídeos permite receber ainda um brinde surpresa relativo a esta iniciativa, sendo que todas as atividades poderão ser seguidas pelas redes sociais, através de @pescazprojet.
-
 
 
 
