@@ -27,6 +27,6 @@ Em desenvolvimento desde 2020, o projeto PESCAz é co-financiado pelo Fundo Euro
 
 ### Actual Projects
 
-- [Age Length Analysis](https://github.com/PESCAzProject/Age_Length_Analysis) - **Ana Maria Novoa Pabon**
+- [Maturity Length Analysis](https://github.com/PESCAzProject/Age_Length_Analysis) - **Ana Maria Novoa Pabon**
 
 
